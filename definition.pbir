@@ -1,0 +1,9 @@
+{
+  "version": "4.0",
+  "datasetReference": {
+    "byPath": {
+      "path": "../SNOW ARGUS Report Test.SemanticModel"
+    },
+    "byConnection": null
+  }
+}

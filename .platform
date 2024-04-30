@@ -1,0 +1,11 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/fabric/gitIntegration/platformProperties/2.0.0/schema.json",
+  "metadata": {
+    "type": "Report",
+    "displayName": "SNOW ARGUS Report Test"
+  },
+  "config": {
+    "version": "2.0",
+    "logicalId": "286898bd-b487-4602-b76b-7adc5825aa9c"
+  }
+}
